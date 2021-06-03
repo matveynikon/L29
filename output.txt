@@ -1,0 +1,749 @@
+Abenshapiro
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+7920 <-- height of page
+0<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+7920 <-- height of page
+300<-- scrolled height
+scrolled!
+not there!!!
+7920 <-- height of page
+600<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+1.7K
+7920 <-- height of page
+900<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+1.7K
+7920 <-- height of page
+1200<-- scrolled height
+scrolled!
+not there!!!
+1.7K
+7920 <-- height of page
+1500<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+1.7K
+7920 <-- height of page
+1800<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+1.7K
+ABORTING: video
+ABORTING: video
+7920 <-- height of page
+2100<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+1.7K
+7920 <-- height of page
+2400<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+1.7K
+7920 <-- height of page
+2700<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+1.7K
+7920 <-- height of page
+3000<-- scrolled height
+scrolled!
+not there!!!
+14.1K
+7920 <-- height of page
+3300<-- scrolled height
+scrolled!
+not there!!!
+9.1K
+7920 <-- height of page
+3600<-- scrolled height
+scrolled!
+not there!!!
+10.4K
+7920 <-- height of page
+3900<-- scrolled height
+scrolled!
+not there!!!
+490
+7920 <-- height of page
+4200<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+45.4K
+7920 <-- height of page
+4500<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+2.4K
+14944 <-- height of page
+4800<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+1.6K
+14944 <-- height of page
+5100<-- scrolled height
+scrolled!
+not there!!!
+1.6K
+14944 <-- height of page
+5400<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+3.8K
+14944 <-- height of page
+5700<-- scrolled height
+scrolled!
+not there!!!
+11.8K
+14944 <-- height of page
+6000<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+5.9K
+14944 <-- height of page
+6300<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+5.9K
+14944 <-- height of page
+6600<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+422
+14944 <-- height of page
+6900<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+422
+14944 <-- height of page
+7200<-- scrolled height
+scrolled!
+not there!!!
+2.1K
+14944 <-- height of page
+7500<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+1.4K
+14944 <-- height of page
+7800<-- scrolled height
+scrolled!
+not there!!!
+1.4K
+14944 <-- height of page
+8100<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+13.7K
+14944 <-- height of page
+8400<-- scrolled height
+scrolled!
+not there!!!
+13.7K
+14944 <-- height of page
+8700<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+1.1K
+14944 <-- height of page
+9000<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+451
+14944 <-- height of page
+9300<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+3.8K
+14944 <-- height of page
+9600<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+6.8K
+15472 <-- height of page
+9900<-- scrolled height
+scrolled!
+not there!!!
+6.8K
+15472 <-- height of page
+10200<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+10.2K
+15472 <-- height of page
+10500<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+13.8K
+15472 <-- height of page
+10800<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+13.8K
+15472 <-- height of page
+11100<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+12.9K
+15472 <-- height of page
+11400<-- scrolled height
+scrolled!
+not there!!!
+11.5K
+15472 <-- height of page
+11700<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+11.5K
+17136 <-- height of page
+12000<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+4.6K
+17136 <-- height of page
+12300<-- scrolled height
+scrolled!
+not there!!!
+4.6K
+17136 <-- height of page
+12600<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+27.7K
+17136 <-- height of page
+12900<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+4.6K
+17136 <-- height of page
+13200<-- scrolled height
+scrolled!
+not there!!!
+503
+ABORTING: video
+ABORTING: video
+17136 <-- height of page
+13500<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+751
+17136 <-- height of page
+13800<-- scrolled height
+scrolled!
+not there!!!
+751
+17136 <-- height of page
+14100<-- scrolled height
+scrolled!
+not there!!!
+ABORTING: video
+ABORTING: video
+5.5K
+17136 <-- height of page
+14400<-- scrolled height
+scrolled!
+not there!!!
+5.5K
+17136 <-- height of page
+14700<-- scrolled height
+scrolled!
+not there!!!
+17136 <-- height of page
+15000<-- scrolled height
+scrolled!
+not there!!!
+17136 <-- height of page
+15300<-- scrolled height
+scrolled!
+not there!!!
+17136 <-- height of page
+15600<-- scrolled height
+scrolled!
+not there!!!
+17136 <-- height of page
+15900<-- scrolled height
+scrolled!
+not there!!!
+17136 <-- height of page
+16200<-- scrolled height
+scrolled!
+not there!!!
+17136 <-- height of page
+16500<-- scrolled height
+scrolled!
+not there!!!
+17136 <-- height of page
+16800<-- scrolled height
+scrolled!
+At last YOOOOOOOYYY
+[
+  [ '/benshapiro/status/1379800064747565058', '959' ],
+  [ '/benshapiro/status/1379797104839823360', '15K' ],
+  [ '/benshapiro/status/1379795401969168390', '4.5K' ],
+  [ '/benshapiro/status/1379792286863745030', '24.3K' ],
+  [ '/benshapiro/status/1379791704342028288', '4K' ],
+  [ '/benshapiro/status/1379789256781103105', '793' ],
+  [ '/benshapiro/status/1379787373744111617', '772' ],
+  [ '/benshapiro/status/1379786589090541570', '12.5K' ],
+  [ '/benshapiro/status/1379769788587769864', '333' ],
+  [ '/benshapiro/status/1379759336646443017', '4.7K' ],
+  [ '/benshapiro/status/1379757904044175365', '10.6K' ],
+  [ '/benshapiro/status/1379800064747565058', '959' ],
+  [ '/benshapiro/status/1379797104839823360', '15K' ],
+  [ '/benshapiro/status/1379795401969168390', '4.5K' ],
+  [ '/benshapiro/status/1379792286863745030', '24.3K' ],
+  [ '/benshapiro/status/1379791704342028288', '4K' ],
+  [ '/benshapiro/status/1379789256781103105', '793' ],
+  [ '/benshapiro/status/1379787373744111617', '772' ],
+  [ '/benshapiro/status/1379786589090541570', '12.5K' ],
+  [ '/benshapiro/status/1379769788587769864', '333' ],
+  [ '/benshapiro/status/1379759336646443017', '4.7K' ],
+  [ '/benshapiro/status/1379757904044175365', '10.6K' ],
+  [ '/benshapiro/status/1379594069484130304', '3.6K' ],
+  [ '/benshapiro/status/1379800064747565058', '959' ],
+  [ '/benshapiro/status/1379797104839823360', '15K' ],
+  [ '/benshapiro/status/1379795401969168390', '4.5K' ],
+  [ '/benshapiro/status/1379792286863745030', '24.3K' ],
+  [ '/benshapiro/status/1379791704342028288', '4K' ],
+  [ '/benshapiro/status/1379789256781103105', '793' ],
+  [ '/benshapiro/status/1379787373744111617', '772' ],
+  [ '/benshapiro/status/1379786589090541570', '12.5K' ],
+  [ '/benshapiro/status/1379769788587769864', '333' ],
+  [ '/benshapiro/status/1379759336646443017', '4.7K' ],
+  [ '/benshapiro/status/1379757904044175365', '10.6K' ],
+  [ '/benshapiro/status/1379594069484130304', '3.6K' ],
+  [ '/benshapiro/status/1379800064747565058', '959' ],
+  [ '/benshapiro/status/1379797104839823360', '15K' ],
+  [ '/benshapiro/status/1379795401969168390', '4.5K' ],
+  [ '/benshapiro/status/1379792286863745030', '24.3K' ],
+  [ '/benshapiro/status/1379791704342028288', '4K' ],
+  [ '/benshapiro/status/1379789256781103105', '793' ],
+  [ '/benshapiro/status/1379787373744111617', '772' ],
+  [ '/benshapiro/status/1379786589090541570', '12.5K' ],
+  [ '/benshapiro/status/1379769788587769864', '333' ],
+  [ '/benshapiro/status/1379759336646443017', '4.7K' ],
+  [ '/benshapiro/status/1379757904044175365', '10.6K' ],
+  [ '/benshapiro/status/1379594069484130304', '3.6K' ],
+  [ '/benshapiro/status/1379593661772619776', '1.7K' ],
+  [ '/benshapiro/status/1379800064747565058', '959' ],
+  [ '/benshapiro/status/1379797104839823360', '15K' ],
+  [ '/benshapiro/status/1379795401969168390', '4.5K' ],
+  [ '/benshapiro/status/1379792286863745030', '24.3K' ],
+  [ '/benshapiro/status/1379791704342028288', '4K' ],
+  [ '/benshapiro/status/1379789256781103105', '793' ],
+  [ '/benshapiro/status/1379787373744111617', '772' ],
+  [ '/benshapiro/status/1379786589090541570', '12.5K' ],
+  [ '/benshapiro/status/1379769788587769864', '333' ],
+  [ '/benshapiro/status/1379759336646443017', '4.7K' ],
+  [ '/benshapiro/status/1379757904044175365', '10.6K' ],
+  [ '/benshapiro/status/1379594069484130304', '3.6K' ],
+  [ '/benshapiro/status/1379593661772619776', '1.7K' ],
+  [ '/benshapiro/status/1379534210323611651', '14.1K' ],
+  [ '/benshapiro/status/1379800064747565058', '959' ],
+  [ '/benshapiro/status/1379797104839823360', '15K' ],
+  [ '/benshapiro/status/1379795401969168390', '4.5K' ],
+  [ '/benshapiro/status/1379792286863745030', '24.3K' ],
+  [ '/benshapiro/status/1379791704342028288', '4K' ],
+  [ '/benshapiro/status/1379789256781103105', '793' ],
+  [ '/benshapiro/status/1379787373744111617', '772' ],
+  [ '/benshapiro/status/1379786589090541570', '12.5K' ],
+  [ '/benshapiro/status/1379769788587769864', '333' ],
+  [ '/benshapiro/status/1379759336646443017', '4.7K' ],
+  [ '/benshapiro/status/1379757904044175365', '10.6K' ],
+  [ '/benshapiro/status/1379594069484130304', '3.6K' ],
+  [ '/benshapiro/status/1379593661772619776', '1.7K' ],
+  [ '/benshapiro/status/1379534210323611651', '14.1K' ],
+  [ '/benshapiro/status/1379800064747565058', '959' ],
+  [ '/benshapiro/status/1379797104839823360', '15K' ],
+  [ '/benshapiro/status/1379795401969168390', '4.5K' ],
+  [ '/benshapiro/status/1379792286863745030', '24.3K' ],
+  [ '/benshapiro/status/1379791704342028288', '4K' ],
+  [ '/benshapiro/status/1379789256781103105', '793' ],
+  [ '/benshapiro/status/1379787373744111617', '772' ],
+  [ '/benshapiro/status/1379786589090541570', '12.5K' ],
+  [ '/benshapiro/status/1379769788587769864', '333' ],
+  [ '/benshapiro/status/1379759336646443017', '4.7K' ],
+  [ '/benshapiro/status/1379757904044175365', '10.6K' ],
+  [ '/benshapiro/status/1379594069484130304', '3.6K' ],
+  [ '/benshapiro/status/1379593661772619776', '1.7K' ],
+  [ '/benshapiro/status/1379534210323611651', '14.1K' ],
+  [ '/benshapiro/status/1379430960169582594', '9.1K' ],
+  [ '/benshapiro/status/1379800064747565058', '959' ],
+  [ '/benshapiro/status/1379797104839823360', '15K' ],
+  [ '/benshapiro/status/1379795401969168390', '4.5K' ],
+  [ '/benshapiro/status/1379792286863745030', '24.3K' ],
+  [ '/benshapiro/status/1379791704342028288', '4K' ],
+  [ '/benshapiro/status/1379789256781103105', '793' ],
+  [ '/benshapiro/status/1379787373744111617', '772' ],
+  [ '/benshapiro/status/1379786589090541570', '12.5K' ],
+  [ '/benshapiro/status/1379769788587769864', '333' ],
+  ... 807 more items
+]
+[]
+[
+  '/benshapiro/status/1379800064747565058',
+  '/benshapiro/status/1379797104839823360',
+  '/benshapiro/status/1379795401969168390',
+  '/benshapiro/status/1379792286863745030',
+  '/benshapiro/status/1379791704342028288',
+  '/benshapiro/status/1379789256781103105',
+  '/benshapiro/status/1379787373744111617',
+  '/benshapiro/status/1379786589090541570',
+  '/benshapiro/status/1379769788587769864',
+  '/benshapiro/status/1379759336646443017',
+  '/benshapiro/status/1379757904044175365',
+  '/benshapiro/status/1379594069484130304',
+  '/benshapiro/status/1379593661772619776',
+  '/benshapiro/status/1379534210323611651',
+  '/benshapiro/status/1379430960169582594',
+  '/benshapiro/status/1379430757035175938',
+  '/benshapiro/status/1379430651925987336',
+  '/benshapiro/status/1379424074691190784',
+  '/benshapiro/status/1379418824668221445',
+  '/benshapiro/status/1379404545806241802',
+  '/benshapiro/status/1379241634504785920',
+  '/benshapiro/status/1379176313081245696',
+  '/benshapiro/status/1379171114216263681',
+  '/benshapiro/status/1379075393970397186',
+  '/benshapiro/status/1379072479042371585',
+  '/benshapiro/status/1379065763894591491',
+  '/benshapiro/status/1379061506877362184',
+  '/benshapiro/status/1379059852450918401',
+  '/benshapiro/status/1379059243110764545',
+  '/benshapiro/status/1379052289307123713',
+  '/benshapiro/status/1379051938541617153',
+  '/benshapiro/status/1379042811471933440',
+  '/benshapiro/status/1379037447821086721',
+  '/benshapiro/status/1378897935769989123',
+  '/benshapiro/status/1378095865252999174',
+  '/benshapiro/status/1378065139753226246',
+  '/benshapiro/status/1377970851702788098',
+  '/benshapiro/status/1377970576254513152',
+  '/benshapiro/status/1377966792254062593',
+  '/benshapiro/status/1377966156477313037',
+  '/benshapiro/status/1377943186455330817',
+  '/benshapiro/status/1377609330690813955',
+  '/benshapiro/status/1377608304885645315',
+  '/benshapiro/status/1377592831905296385',
+  '/benshapiro/status/1377592589336113154'
+]
+45
+[
+  [ '/benshapiro/status/1379800064747565058', '959' ],
+  [ '/benshapiro/status/1379797104839823360', '15K' ],
+  [ '/benshapiro/status/1379795401969168390', '4.5K' ],
+  [ '/benshapiro/status/1379792286863745030', '24.3K' ],
+  [ '/benshapiro/status/1379791704342028288', '4K' ],
+  [ '/benshapiro/status/1379789256781103105', '793' ],
+  [ '/benshapiro/status/1379787373744111617', '772' ],
+  [ '/benshapiro/status/1379786589090541570', '12.5K' ],
+  [ '/benshapiro/status/1379769788587769864', '333' ],
+  [ '/benshapiro/status/1379759336646443017', '4.7K' ],
+  [ '/benshapiro/status/1379757904044175365', '10.6K' ],
+  [ '/benshapiro/status/1379594069484130304', '3.6K' ],
+  [ '/benshapiro/status/1379593661772619776', '1.7K' ],
+  [ '/benshapiro/status/1379534210323611651', '14.1K' ],
+  [ '/benshapiro/status/1379430960169582594', '9.1K' ],
+  [ '/benshapiro/status/1379430757035175938', '10.4K' ],
+  [ '/benshapiro/status/1379430651925987336', '490' ],
+  [ '/benshapiro/status/1379424074691190784', '45.4K' ],
+  [ '/benshapiro/status/1379418824668221445', '2.4K' ],
+  [ '/benshapiro/status/1379404545806241802', '1.6K' ],
+  [ '/benshapiro/status/1379241634504785920', '3.8K' ],
+  [ '/benshapiro/status/1379176313081245696', '11.8K' ],
+  [ '/benshapiro/status/1379171114216263681', '5.9K' ],
+  [ '/benshapiro/status/1379075393970397186', '422' ],
+  [ '/benshapiro/status/1379072479042371585', '2.1K' ],
+  [ '/benshapiro/status/1379065763894591491', '1.4K' ],
+  [ '/benshapiro/status/1379061506877362184', '7.5K' ],
+  [ '/benshapiro/status/1379059852450918401', '13.7K' ],
+  [ '/benshapiro/status/1379059243110764545', '1.1K' ],
+  [ '/benshapiro/status/1379052289307123713', '2.4K' ],
+  [ '/benshapiro/status/1379051938541617153', '451' ],
+  [ '/benshapiro/status/1379042811471933440', '3.8K' ],
+  [ '/benshapiro/status/1379037447821086721', '6.8K' ],
+  [ '/benshapiro/status/1378897935769989123', '10.2K' ],
+  [ '/benshapiro/status/1378095865252999174', '13.8K' ],
+  [ '/benshapiro/status/1378065139753226246', '12.9K' ],
+  [ '/benshapiro/status/1377970851702788098', '11.5K' ],
+  [ '/benshapiro/status/1377970576254513152', '4.6K' ],
+  [ '/benshapiro/status/1377966792254062593', '8.9K' ],
+  [ '/benshapiro/status/1377966156477313037', '27.7K' ],
+  [ '/benshapiro/status/1377943186455330817', '4.6K' ],
+  [ '/benshapiro/status/1377609330690813955', '503' ],
+  [ '/benshapiro/status/1377608304885645315', '751' ],
+  [ '/benshapiro/status/1377592831905296385', '26.6K' ],
+  [ '/benshapiro/status/1377592589336113154', '5.5K' ]
+]
+45
+[
+  [ '/benshapiro/status/1379800064747565058', '959' ],
+  [ '/benshapiro/status/1379797104839823360', '15K' ],
+  [ '/benshapiro/status/1379795401969168390', '4.5K' ],
+  [ '/benshapiro/status/1379792286863745030', '24.3K' ],
+  [ '/benshapiro/status/1379791704342028288', '4K' ],
+  [ '/benshapiro/status/1379789256781103105', '793' ],
+  [ '/benshapiro/status/1379787373744111617', '772' ],
+  [ '/benshapiro/status/1379786589090541570', '12.5K' ],
+  [ '/benshapiro/status/1379769788587769864', '333' ],
+  [ '/benshapiro/status/1379759336646443017', '4.7K' ],
+  [ '/benshapiro/status/1379757904044175365', '10.6K' ],
+  [ '/benshapiro/status/1379594069484130304', '3.6K' ],
+  [ '/benshapiro/status/1379593661772619776', '1.7K' ],
+  [ '/benshapiro/status/1379534210323611651', '14.1K' ],
+  [ '/benshapiro/status/1379430960169582594', '9.1K' ],
+  [ '/benshapiro/status/1379430757035175938', '10.4K' ],
+  [ '/benshapiro/status/1379430651925987336', '490' ],
+  [ '/benshapiro/status/1379424074691190784', '45.4K' ],
+  [ '/benshapiro/status/1379418824668221445', '2.4K' ],
+  [ '/benshapiro/status/1379404545806241802', '1.6K' ],
+  [ '/benshapiro/status/1379241634504785920', '3.8K' ],
+  [ '/benshapiro/status/1379176313081245696', '11.8K' ],
+  [ '/benshapiro/status/1379171114216263681', '5.9K' ],
+  [ '/benshapiro/status/1379075393970397186', '422' ],
+  [ '/benshapiro/status/1379072479042371585', '2.1K' ],
+  [ '/benshapiro/status/1379065763894591491', '1.4K' ],
+  [ '/benshapiro/status/1379061506877362184', '7.5K' ],
+  [ '/benshapiro/status/1379059852450918401', '13.7K' ],
+  [ '/benshapiro/status/1379059243110764545', '1.1K' ],
+  [ '/benshapiro/status/1379052289307123713', '2.4K' ],
+  [ '/benshapiro/status/1379051938541617153', '451' ],
+  [ '/benshapiro/status/1379042811471933440', '3.8K' ],
+  [ '/benshapiro/status/1379037447821086721', '6.8K' ],
+  [ '/benshapiro/status/1378897935769989123', '10.2K' ],
+  [ '/benshapiro/status/1378095865252999174', '13.8K' ],
+  [ '/benshapiro/status/1378065139753226246', '12.9K' ],
+  [ '/benshapiro/status/1377970851702788098', '11.5K' ],
+  [ '/benshapiro/status/1377970576254513152', '4.6K' ],
+  [ '/benshapiro/status/1377966792254062593', '8.9K' ],
+  [ '/benshapiro/status/1377966156477313037', '27.7K' ],
+  [ '/benshapiro/status/1377943186455330817', '4.6K' ],
+  [ '/benshapiro/status/1377609330690813955', '503' ],
+  [ '/benshapiro/status/1377608304885645315', '751' ],
+  [ '/benshapiro/status/1377592831905296385', '26.6K' ],
+  [ '/benshapiro/status/1377592589336113154', '5.5K' ]
+]
+no thousands
+15000
+4500
+24300
+4000
+no thousands
+no thousands
+12500
+no thousands
+4700
+10600
+3600
+1700
+14100
+9100
+10400
+no thousands
+45400
+2400
+1600
+3800
+11800
+5900
+no thousands
+2100
+1400
+7500
+13700
+1100
+2400
+no thousands
+3800
+6800
+10200
+13800
+12900
+11500
+4600
+8900
+27700
+4600
+no thousands
+no thousands
+26600
+5500
+[
+  [ '45400', '/benshapiro/status/1379424074691190784' ],
+  [ '27700', '/benshapiro/status/1377966156477313037' ],
+  [ '26600', '/benshapiro/status/1377592831905296385' ],
+  [ '24300', '/benshapiro/status/1379792286863745030' ],
+  [ '15000', '/benshapiro/status/1379797104839823360' ],
+  [ '14100', '/benshapiro/status/1379534210323611651' ],
+  [ '13800', '/benshapiro/status/1378095865252999174' ],
+  [ '13700', '/benshapiro/status/1379059852450918401' ],
+  [ '12900', '/benshapiro/status/1378065139753226246' ],
+  [ '12500', '/benshapiro/status/1379786589090541570' ],
+  [ '11800', '/benshapiro/status/1379176313081245696' ],
+  [ '11500', '/benshapiro/status/1377970851702788098' ],
+  [ '10600', '/benshapiro/status/1379757904044175365' ],
+  [ '10400', '/benshapiro/status/1379430757035175938' ],
+  [ '10200', '/benshapiro/status/1378897935769989123' ],
+  [ '9100', '/benshapiro/status/1379430960169582594' ],
+  [ '8900', '/benshapiro/status/1377966792254062593' ],
+  [ '7500', '/benshapiro/status/1379061506877362184' ],
+  [ '6800', '/benshapiro/status/1379037447821086721' ],
+  [ '5900', '/benshapiro/status/1379171114216263681' ],
+  [ '5500', '/benshapiro/status/1377592589336113154' ],
+  [ '4700', '/benshapiro/status/1379759336646443017' ],
+  [ '4600', '/benshapiro/status/1377970576254513152' ],
+  [ '4600', '/benshapiro/status/1377943186455330817' ],
+  [ '4500', '/benshapiro/status/1379795401969168390' ],
+  [ '4000', '/benshapiro/status/1379791704342028288' ],
+  [ '3800', '/benshapiro/status/1379241634504785920' ],
+  [ '3800', '/benshapiro/status/1379042811471933440' ],
+  [ '3600', '/benshapiro/status/1379594069484130304' ],
+  [ '2400', '/benshapiro/status/1379418824668221445' ],
+  [ '2400', '/benshapiro/status/1379052289307123713' ],
+  [ '2100', '/benshapiro/status/1379072479042371585' ],
+  [ '1700', '/benshapiro/status/1379593661772619776' ],
+  [ '1600', '/benshapiro/status/1379404545806241802' ],
+  [ '1400', '/benshapiro/status/1379065763894591491' ],
+  [ '1100', '/benshapiro/status/1379059243110764545' ],
+  [ '959', '/benshapiro/status/1379800064747565058' ],
+  [ '793', '/benshapiro/status/1379789256781103105' ],
+  [ '772', '/benshapiro/status/1379787373744111617' ],
+  [ '751', '/benshapiro/status/1377608304885645315' ],
+  [ '503', '/benshapiro/status/1377609330690813955' ],
+  [ '490', '/benshapiro/status/1379430651925987336' ],
+  [ '451', '/benshapiro/status/1379051938541617153' ],
+  [ '422', '/benshapiro/status/1379075393970397186' ],
+  [ '333', '/benshapiro/status/1379769788587769864' ]
+]
+45
+File written successfullEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+File written successfullEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+File written successfullEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+File written successfullEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+File written successfullEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
